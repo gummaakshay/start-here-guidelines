@@ -3394,5 +3394,3 @@
 - [@Abdellah-ST](https://github.com/Abdellah-ST)
 
 - [@rutvikshukla] (https://github.com/rutvikshukla/)
-
-- [@gummaakshay](https://github.com/gummaakshay/)
